@@ -18,6 +18,10 @@
     <LibraryReferences>{dd4f1914-62b0-466f-b710-13cf9ed0c6d6}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="GVLs\OPC_UA.TcGVL">
+      <SubType>Code</SubType>
+      <LinkAlways>true</LinkAlways>
+    </Compile>
     <Compile Include="PlcTask.TcTTO">
       <SubType>Code</SubType>
     </Compile>

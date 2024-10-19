@@ -2,9 +2,9 @@
 <TcLicenseInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2011/11/TcLicenseInfo">
 	<LicenseInfo>
 		<SystemId>{CA0DA57A-C274-91BC-5ADC-CFFC14280809}</SystemId>
-		<IssueTime>2024-10-19T13:18:00</IssueTime>
+		<IssueTime>2024-10-19T13:42:00</IssueTime>
 		<ExpireTime>2024-10-27T00:00:00</ExpireTime>
-		<LicenseKey>cf19878169ef312ae2524916ede2b9b3dcf665c447c1ff9146bc25537d4a976411f828e8e5a65fac16d8d8bdbada42a15ae22a4ce3562e773d2368dfe24f3a65ded3eac2243bd1db08b348dfcfb5c10b965ee2cdb99dd21737a9291894e8daa83fa42704954cc7128ae9902d4de93a7b8d3dcc11335aa849d164b3515d08d4ffab065e710e0f3a983635294e1c5222777f62d07b9975c7c1dae7b9f4a4bc9a098a9e269c7886a196849d6e2291c35c15d4d1522d1f6732b1c236be84fe397d940b8eb9c1f8a299d60bf0ac73cec6c7ddd30a50fd6fe8ad81d7b0fbba75b816e654fd39856cc9d7e89c7e9308bb52af8c31e8f9014e13451da29290d23b432683</LicenseKey>
+		<LicenseKey>a455bcc546f2fc0e0a42414ebdc3dc88e7b6b00eb88bc6a1553f08440d5e66cca3c9a8a902f823593be066e36a233e570ddf653dd21552f5d938151173908d6e520567573e269a6b4fd82ce4a08200987ad52b9c48750eb139dea5c7d4113ec725d4f068f2acae34ea46e7b1e7f7fd79f928a28fab1d23e8a725b309b24511fd8da307b6c2c5d57021c819d55518a196603a8a9afdd0180ae8ce89382a961486fac2f63c40a6220ce59b9532b3bdd3cb205328747008ce8ae5a109908e2931a37751f3f0a1b120f306ddc53d2b9094aec74cf8a3178fdd5d6c682f51d1bc6fb5a3fc7529f52b912ec2cf6ffb56a1f10ee9b0177d28452a8e7f54d6f4d46b11a1</LicenseKey>
 		<License>
 			<LicenseId>{4C256767-E6E6-4AF5-BD68-9F7ABAD0C200}</LicenseId>
 			<Name>TC3 ADS</Name>
@@ -24,6 +24,16 @@
 			<LicenseId>{BDCC0070-42D5-49AE-ABF1-1D4434813D60}</LicenseId>
 			<Name>TC3 OPC-UA</Name>
 			<OrderNo>TF6100</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{6952449D-F68C-49A2-ADE4-8639D85B33A4}</LicenseId>
+			<Name>TC3 Modbus-TCP</Name>
+			<OrderNo>TF6250</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{A1AF8A04-C08D-4853-A5A0-0E6C3A278A8C}</LicenseId>
+			<Name>TC3 Modbus-RTU</Name>
+			<OrderNo>TF6255</OrderNo>
 		</License>
 	</LicenseInfo>
 </TcLicenseInfo>
